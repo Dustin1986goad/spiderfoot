@@ -1,0 +1,2 @@
+cd spiderfoot
+pip install –r requirements.txt
